@@ -24,7 +24,7 @@ Visit [Rrate](your-website-url) to try the comparison tool yourself!
 
 ## 📸 Screenshots
 
-![Rrate Landing Page](assets/screenshots/Rrate.png)
+![Rrate Landing Page](assets/Rrate.png)
 
 ## 🛠️ Technology Stack
 
